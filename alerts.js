@@ -1,4 +1,4 @@
-alert("Welcome Ali Khan to my website.");
+alert("Welcome insan ahsan to my website.");
 
 alert("Error! Please enter a valid password.");
 
